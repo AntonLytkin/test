@@ -1,0 +1,1 @@
+<h1>Привет, <?php echo $this->name; ?>!</h1>

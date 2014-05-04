@@ -1,4 +1,5 @@
 <?php
+//for git
 class FrontController {
 	protected $_controller, $_action, $_params, $_body;
 	static $_instance;

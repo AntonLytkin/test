@@ -2,6 +2,7 @@
 /* ���� ��-��������� ��� ������ ������ */
 set_include_path('application/controllers'.PATH_SEPARATOR.'application/models'.PATH_SEPARATOR.'application/views');
 //some changes (for git)
+//another changes
 /* ����� ������: views */
 define('USER_DEFAULT_FILE', 'user_default.php');
 define('USER_ROLE_FILE', 'user_role.php');

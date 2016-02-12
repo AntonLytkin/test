@@ -1,5 +1,6 @@
 <?php
 /* ���� ��-��������� ��� ������ ������ */
+echo 'new edit';
 set_include_path('application/controllers'.PATH_SEPARATOR.'application/models'.PATH_SEPARATOR.'application/views');
 //some git master changes (for git)
 //another changes

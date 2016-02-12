@@ -1,7 +1,7 @@
 <?php
 /* ���� ��-��������� ��� ������ ������ */
 set_include_path('application/controllers'.PATH_SEPARATOR.'application/models'.PATH_SEPARATOR.'application/views');
-//some git  changes (for git)
+//some git master changes (for git)
 //another changes
 /* ����� ������: views */
 define('USER_DEFAULT_FILE', 'user_default.php');
